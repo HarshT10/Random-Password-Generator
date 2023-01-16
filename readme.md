@@ -2,6 +2,10 @@
 
 - I made this random password generator for my own practice. It has 4 radio buttons and each of them has different a different password criteria.
 
+[Netlify](https://randompasswordgenerator-harshcodes.netlify.app/)
+
+![Badge](https://img.shields.io/badge/Netlify-Link-green)
+
 ---
 
 ## What did I learn from this Project?
