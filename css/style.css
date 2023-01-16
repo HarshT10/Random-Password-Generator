@@ -1,0 +1,16 @@
+body {
+    background-color: #06283D;
+    height: 100vh;
+}
+
+.card {
+    background-color: #47B5FF;
+}
+
+.btn {
+    border: none;
+}
+
+.btn:hover {
+    background-color: #06283D;
+}
